@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+
+  <link rel="stylesheet" href="css/style.css">
+  
+  <title>Bookings - New York's Best Pizza</title>
+  <meta name="description" content="Bookings for Joe's Pizza of New York City.">
+  <meta name="keywords" content="bookings,joe's pizza,joe's story,pizzas,">
+  <meta name="author" content="RunningTalus">
+</head>
+<body>
+  <!-- Page Container -->
+  <div id="container">
+    <!-- Header -->
+    <header>
+      <!-- Logo -->
+      <div id = "logo">
+        <h1>Joe's Pizza Co</h1>
+      </div>
+      <!-- Navigation -->
+      <nav>
+        <ul>
+          <li>
+            <a href="index.html" title="Joe's Pizza Co." >Home</a>
+          </li>
+          <li>
+            <a href="about.html" title="About Joe's Pizza Co.">About</a>
+          </li>
+          <li>
+            <a href="news.html" title="Joe's Pizza Co. in the News">News</a>
+          </li>
+          <li>
+            <a href="menu.html" title="Joe's Pizza Menu">Menu</a>
+          </li>
+          <li>
+            <a href="locations.html" title="Joe's Pizza Co. Locations">Locations</a>
+          </li>
+          <li>
+            <a href="bookings.html" title="Make a booking">Bookings</a>
+          </li>
+        </ul>
+      </nav>
+    </header>
+    
+    <!-- Main Content -->
+    <div>
+      <!-- Page Text -->
+      <section id="page-text">
+      <h1>Request a Booking</h1>
+      <p>
+      Please use the form below to submit a booking request. You will then be contacted by a staff member who will confirm your booking.
+      </p>
+      <form action="bookings.php" method="POST" id="bookingsForm">
+        <p class="validation-tip"> * Indicates a required field.</p>
+        <fieldset>
+         <legend>Contact Details</legend>
+         <div class="field">
+           <label for="name">Name*:</label>
+           <input type="text" name="name" id="name" 
+            placeholder="e.g. Joe Balochio" autofocus required 
+            maxlength="65" tabindex="1">
+         </div>
+         
+         <div class="field">
+           <label for="phone">Phone*:</label>
+           <input type="tel" name="phone" id="phone" 
+            placeholder="e.g. 000-000-0000" 
+            pattern="[0-9]{3}[-][0-9]{3}[-][0-9]{4}" required
+            title="Please provide your phone number in the following format: 000-000-0000" 
+            tabindex="2">
+         </div>
+         
+         <div class="field">
+           <label for="email" >Email*:</label>
+           <input type="email" name="email" id="email" 
+            placeholder="e.g. joe@example.com" required
+            tabindex="3">
+         </div>
+        </fieldset>
+        <fieldset>
+        <legend>Booking Information</legend>
+          <div class="field">
+            <label for="restaurant">Restaurant*:</label>
+            <select name="restaurant" id="restaurant" required
+              tabindex="4">
+            <option>310 West 38th Street, NY</option>
+            <option>2450 Broadway, NY</option>
+            <option>200 West 44th Street, NY</option>
+            </select>
+          </div>
+
+          <div class="field">
+            <label for="bookingTime">Booking Time*:</label>
+            <input type="datetime-local" name="bookingTime" 
+              id="bookingTime" tabindex="5" 
+              placeholder="e.g. 2014-10-23 12:00" required>
+          </div>
+
+          <div class="field">
+            <label for="guests">Number of Guests*:</label>
+            <input type="number" name="guests" id="guests" value="2" 
+              required min="1" max="12" tabindex="6">
+          </div>
+
+          <div class="field">
+            <label for="marketing">Please tick this box if you would like to receive special offers from Joe's Pizza Co.</label>
+            <input type="checkbox" name="marketing" id="marketing" 
+              value="1" tabindex="7">
+          </div>
+        <div class="field">
+          <label for="message">Special Requests:</label>
+          <textarea name="message" id="message" cols="50" rows="10" 
+            placeholder="Type your message..." 
+            maxlength="250" tabindex="8"></textarea>
+        </div>
+        <div class="field">
+          <button type="submit" tabindex="9">Request Booking</button>  
+        </div>
+        </fieldset> 
+      </form>
+      </section>
+    </div>
+    
+    <!-- Footer -->
+    <footer>
+      <small>&copy; 2014 Joe's Pizza Co. All Rights Reserved</small>
+       - 
+      <a href="sitemap.html" title="Links to all the pages on this website.">Sitemap</a>
+    </footer>
+  </div>
+  <script src="js/storage.js"></script>
+</body>
+</html>

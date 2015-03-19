@@ -1,0 +1,940 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"prin",
+				"printHelp"
+			],
+			[
+				"mong",
+				"mongoclient"
+			],
+			[
+				"disable",
+				"disableDoubleClickZoom"
+			],
+			[
+				"col",
+				"col-sm-offset-1"
+			],
+			[
+				"myInput",
+				"myInputVar2"
+			],
+			[
+				"P",
+				"preventDefault"
+			],
+			[
+				"quizTempl",
+				"quizTemplateOutput"
+			],
+			[
+				"qui",
+				"quizTemplate"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"mySt",
+				"myString"
+			],
+			[
+				"insta",
+				"instanceOfCustomObject"
+			],
+			[
+				"ins",
+				"instanceOfCustomObject"
+			],
+			[
+				"Custom",
+				"CustomConstructor"
+			],
+			[
+				"myReg",
+				"myRegExpLiteral"
+			],
+			[
+				"myFucn",
+				"myFunctionLiteral"
+			],
+			[
+				"myF",
+				"myFunction"
+			],
+			[
+				"myArr",
+				"myArrayLiteral"
+			],
+			[
+				"myO",
+				"myObjectLiteral"
+			],
+			[
+				"myboo",
+				"myBooleanLiteral"
+			],
+			[
+				"myBoole",
+				"myBooleanLiteral"
+			],
+			[
+				"primit",
+				"primitiveBoolean1"
+			],
+			[
+				"prim",
+				"primitiveNumber1"
+			],
+			[
+				"primi",
+				"primitiveString2"
+			],
+			[
+				"primitive",
+				"primitiveNumber2"
+			],
+			[
+				"obj",
+				"objectFoo"
+			],
+			[
+				"primiti",
+				"primitiveNumber1"
+			],
+			[
+				"primitiveNume",
+				"primitiveNumber1"
+			],
+			[
+				"pr",
+				"primitiveBoolean2"
+			],
+			[
+				"primitiveBool",
+				"primitiveBoolean1"
+			],
+			[
+				"myFunc",
+				"myFunctionLiteral"
+			],
+			[
+				"my",
+				"myArrayLiteral"
+			],
+			[
+				"myString",
+				"myStringLiteral"
+			],
+			[
+				"myNum",
+				"myNumberLiteral"
+			],
+			[
+				"cons",
+				"constructor"
+			],
+			[
+				"get",
+				"getGender"
+			],
+			[
+				"citr",
+				"citrusFree"
+			],
+			[
+				"gluten",
+				"glutenFree"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"userRa",
+				"userRatingInput"
+			],
+			[
+				"totalLe",
+				"totalLetters2"
+			],
+			[
+				"arr",
+				"arrOfStrings"
+			],
+			[
+				"pro",
+				"prototype"
+			],
+			[
+				"checkfi",
+				"checkIfGlutenFree"
+			],
+			[
+				"border",
+				"borderRadius"
+			],
+			[
+				"clock",
+				"clock-shell"
+			],
+			[
+				"j",
+				"j"
+			],
+			[
+				"capitali",
+				"capitalized"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"width",
+				"max-width"
+			],
+			[
+				"border-top",
+				"border-top-width"
+			],
+			[
+				"h",
+				"h2	Tag"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"table",
+				"table-cell"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"tex",
+				"text-align"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 2654,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "about.html",
+			"settings":
+			{
+				"buffer_size": 2504,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sitemap.html",
+			"settings":
+			{
+				"buffer_size": 2513,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"packag",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"package control",
+				"Package Control: Discover Packages"
+			],
+			[
+				"p",
+				"Package Control: Install Package"
+			],
+			[
+				"cdnjs",
+				"Cdnjs: Import Script"
+			],
+			[
+				"",
+				"Cdnjs: Import Script"
+			],
+			[
+				"cdn",
+				"Cdnjs: Import Script"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"JSHint"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Discover Packages"
+			],
+			[
+				"pac",
+				"Package Control: Discover Packages"
+			],
+			[
+				"li",
+				"Package Control: List Packages"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 153.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/CommandCenter2/code/20141020-HTML5_Foundations",
+		"/Users/CommandCenter2/code/20141020-HTML5_Foundations/chapter09",
+		"/Users/CommandCenter2/code/20141020-HTML5_Foundations/chapter09/09-04"
+	],
+	"file_history":
+	[
+		"/Users/CommandCenter2/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/CommandCenter2/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/CommandCenter2/Documents/Manning-Books-Completed/The-Responsive-Web/TRWSourceCode/source code/Appendix - Foundation/B.2/example1.html",
+		"/Users/CommandCenter2/Documents/Manning-Books-Completed/The-Responsive-Web/TRWSourceCode/source code/chapter 1/1.1/javascripts/app.js",
+		"/Users/CommandCenter2/Desktop/Chrome app/Chrome app/LinkedinProfileViewer0.0.7/background.js",
+		"/Users/CommandCenter2/Desktop/Chrome app/Chrome app/LinkedinProfileViewer0.0.7/main.js",
+		"/Users/CommandCenter2/code/week01_d01-ice1/index.html",
+		"/Users/CommandCenter2/code/Links.html",
+		"/Users/CommandCenter2/code/20141106_StrongLoop/NOTES.md",
+		"/Users/CommandCenter2/code/20141106_StrongLoop/exercises/10.server.js",
+		"/Users/CommandCenter2/code/20141106_StrongLoop/exercises/10.html",
+		"/Users/CommandCenter2/code/20141106_StrongLoop/exercises/9.html",
+		"/Users/CommandCenter2/code/20141106_StrongLoop/exercises/9.server.js",
+		"/Users/CommandCenter2/code/20141106_StrongLoop/exercises/8.html",
+		"/Users/CommandCenter2/code/20141106_StrongLoop/solutions/7.html",
+		"/Users/CommandCenter2/code/20141106_StrongLoop/solutions/7.server.js",
+		"/Users/CommandCenter2/code/20141106_StrongLoop/exercises/6.html",
+		"/Users/CommandCenter2/code/20141106_StrongLoop/exercises/6.server.js",
+		"/Users/CommandCenter2/code/20141106_StrongLoop/exercises/4.server.js",
+		"/Users/CommandCenter2/code/20141106_StrongLoop/exercises/helloworld3/package.json",
+		"/Users/CommandCenter2/code/20141106_StrongLoop/exercises/3.js",
+		"/Users/CommandCenter2/code/20141106_StrongLoop/exercises/helloworld3/helloworld3.js",
+		"/Users/CommandCenter2/code/20141106_StrongLoop/exercises/helloworld3/UMD-shell.js",
+		"/Users/CommandCenter2/code/20141106_StrongLoop/solutions/helloworld3/UMD-shell.js",
+		"/Users/CommandCenter2/code/20141106_StrongLoop/solutions/1.js",
+		"/Users/CommandCenter2/code/20141106_StrongLoop/solutions/helloworld.js",
+		"/Users/CommandCenter2/code/20141106_StrongLoop/exercises/promises/callbacks.js",
+		"/Users/CommandCenter2/code/20141106_StrongLoop/exercises/promises/promises.js",
+		"/Users/CommandCenter2/code/20141106_StrongLoop/exercises/promises/asynquence.js",
+		"/Users/CommandCenter2/code/20141106_StrongLoop/exercises/2.js",
+		"/Users/CommandCenter2/code/20141106_StrongLoop/exercises/helloworld2.js",
+		"/node/post_express/app.js",
+		"/node/post_express/.gitignore",
+		"/node/get_express/views/hello.html",
+		"/node/get_express/app.js",
+		"/node/get_express/.gitignore",
+		"/node/hello_mongo_express/app.js",
+		"/node/hello_express_swig_mongodb/.gitignore",
+		"/node/hello_express/app.js",
+		"/node/hello_express/views/hello.html",
+		"/node/hello_world/app.js",
+		"/node/hello_world_mongodb/package.json",
+		"/node/intro_to_npm/.gitignore",
+		"/node/hello_world_mongodb/.gitignore",
+		"/node/hello_express/.gitignore",
+		"/Users/CommandCenter2/code/week06_d30_nodejs_expressjs_jade_news/.gitignore",
+		"/node/hello_world_mongodb/app.js",
+		"/node/intro_to_npm/app.js",
+		"/node/intro_to_npm/package.json",
+		"/Users/CommandCenter2/code/20141020-HTML5_Foundations_PubCode/HTML5_Foundations/Final Code/chapter02/4/index.html",
+		"/Users/CommandCenter2/code/20141020-HTML5_Foundations_PubCode/HTML5_Foundations/Final Code/chapter01/3/index.html",
+		"/Users/CommandCenter2/code/20141020-HTML5_Foundations_PubCode/HTML5_Foundations/Final Code/chapter03/3/about.html",
+		"/Users/CommandCenter2/code/20141020-HTML5_Foundations_PubCode/HTML5_Foundations/Final Code/chapter02/1/index.html",
+		"/Users/CommandCenter2/code/Notes_from_JavaScript_Enlightenment/01_JavaScript_Objects/index.html",
+		"/Applications/Sublime Text.app/Contents/MacOS/changelog.txt",
+		"/Users/CommandCenter2/code/toilet_tunes/package.json",
+		"/Users/CommandCenter2/code/toilet_tunes/views/index.jade",
+		"/Users/CommandCenter2/code/toilet_tunes/app.js",
+		"/Users/CommandCenter2/code/tessel-code/.gitignore",
+		"/Users/CommandCenter2/code/tessel-code/ambient.js",
+		"/Users/CommandCenter2/code/week05_d21_midterm_project/public/css/main.css",
+		"/Users/CommandCenter2/code/week05_d21_midterm_project/README.md",
+		"/Users/CommandCenter2/code/week05_d21_midterm_project/views/layout.jade",
+		"/Users/CommandCenter2/code/week05_d21_midterm_project/public/js/main.js",
+		"/Users/CommandCenter2/code/week05_d21_midterm_project/app.js",
+		"/Users/CommandCenter2/code/week05_d21_midterm_project/package.json",
+		"/Users/CommandCenter2/code/week05_d21_midterm_project/views/index.jade",
+		"/Users/CommandCenter2/code/week05_d21_midterm_project/old/mapquest.js",
+		"/Users/CommandCenter2/code/week05_d21_midterm_project/old/nokia.js",
+		"/Users/CommandCenter2/code/week05_d21_midterm_project/.gitignore",
+		"/Users/CommandCenter2/code/week05_d21_midterm_project/public/js/bing.js",
+		"/Users/CommandCenter2/code/week05_d21_midterm_project/public/js/esri.js",
+		"/Users/CommandCenter2/code/week05_d21_midterm_project/public/js/google.js",
+		"/Users/CommandCenter2/code/week05_d21_midterm_project/public/old_index_html",
+		"/Users/CommandCenter2/code/week05_d21_midterm_project/public/index.html",
+		"/Users/CommandCenter2/code/week05_d21_midterm_project/esri.js",
+		"/Users/CommandCenter2/code/Notes_from_JavaScript_Enlightenment/04_Function/04_Function.js",
+		"/Users/CommandCenter2/code/Notes_from_JavaScript_Enlightenment/03_Object/03_Object.js",
+		"/Users/CommandCenter2/code/Notes_from_JavaScript_Enlightenment/04_Function/index.html",
+		"/Users/CommandCenter2/code/Notes_from_JavaScript_Enlightenment/02_Working_with_Objects_and_Properties/index.html",
+		"/Users/CommandCenter2/code/Notes_from_JavaScript_Enlightenment/02_Working_with_Objects_and_Properties/02_Working_with_Objects_and_Properties.js",
+		"/Users/CommandCenter2/code/Notes_from_JavaScript_Enlightenment/03_Object/index.html",
+		"/Users/CommandCenter2/code/week08_Library_Demo_Highcharts/views/layout.jade",
+		"/Users/CommandCenter2/code/week08_Library_Demo_Highcharts/views/dave.jade",
+		"/Users/CommandCenter2/code/week08_Library_Demo_Highcharts/public/js/dave.json",
+		"/Users/CommandCenter2/code/week08_Library_Demo_Highcharts/public/js/dave.js",
+		"/Users/CommandCenter2/code/week08_Library_Demo_Highcharts/public/css/dave.css",
+		"/Users/CommandCenter2/code/week08_d40_grunt/package.json",
+		"/Users/CommandCenter2/code/week08_d40_grunt/README.md",
+		"/Users/CommandCenter2/code/week08_d40_grunt/js/main.js",
+		"/Users/CommandCenter2/code/week08_d40_grunt/gruntfile.js",
+		"/Users/CommandCenter2/code/week08_d40_grunt/css/main.css",
+		"/Users/CommandCenter2/code/week08_d40_grunt/css/theme.css",
+		"/Users/CommandCenter2/code/week08_Library_Demo_Highcharts/app.js",
+		"/Users/CommandCenter2/code/hackLibraryDemo.txt",
+		"/Users/CommandCenter2/code/week07_d31_ajax_countries/public/scripts/main.js",
+		"/Users/CommandCenter2/code/week07_d31_ajax_countries/models/countries.json",
+		"/Users/CommandCenter2/code/week07_d31_ajax_countries/app.js",
+		"/Users/CommandCenter2/code/week08_d39_backbone/README.md",
+		"/Users/CommandCenter2/Desktop/highcharts/1987-09-17_2007-09-30_06730200_20140521170519.rdb",
+		"/Users/CommandCenter2/Desktop/highcharts/dvstat",
+		"/Users/CommandCenter2/code/week08_d38_passport_authentication/passport-local/package.json",
+		"/Users/CommandCenter2/code/week08_d38_passport_authentication/passport-local/app.js",
+		"/Users/CommandCenter2/code/week08_d38_passport_authentication/passport-local/config/passport.js",
+		"/Users/CommandCenter2/code/week08_d38_passport_authentication/nodejs/passport-local/config/passport.js",
+		"/Users/CommandCenter2/code/week08_d36_handlebars_store/index.html",
+		"/Users/CommandCenter2/code/week08_d36_handlebars_store/js/main.js",
+		"/Users/CommandCenter2/code/week08_d36_handlebars_store/README.md",
+		"/Users/CommandCenter2/code/20140519_Client_Boilerplate/README.md",
+		"/Users/CommandCenter2/code/week07_lingo/models/users.js",
+		"/Users/CommandCenter2/code/week07_lingo/public/css/main.css",
+		"/Users/CommandCenter2/code/week07_lingo/controllers/signin.js",
+		"/Users/CommandCenter2/code/week07_lingo/public/js/main.js",
+		"/Users/CommandCenter2/code/week07_lingo/views/quiz.jade",
+		"/Users/CommandCenter2/code/week07_lingo/views/layout.jade",
+		"/Users/CommandCenter2/code/week07_test/index.html",
+		"/Users/CommandCenter2/code/week07_lingo/models/dictionary.js",
+		"/Users/CommandCenter2/code/week07_lingo/controllers/users.js",
+		"/Users/CommandCenter2/code/week07_lingo/models/translation.js",
+		"/Users/CommandCenter2/code/week07_lingo/controllers/dictionary.js",
+		"/Users/CommandCenter2/code/week07_lingo/models/quiz.js",
+		"/Users/CommandCenter2/code/week07_lingo/package.json",
+		"/Users/CommandCenter2/code/week07_lingo/controllers/translate.js",
+		"/Users/CommandCenter2/code/week07_lingo/controllers/quiz.js",
+		"/Users/CommandCenter2/code/week07_lingo/app.js",
+		"/Users/CommandCenter2/code/week07_d35_flickr/controllers/indexController.js",
+		"/Users/CommandCenter2/code/week07_d35_flickr/controllers/flickrController.js",
+		"/Users/CommandCenter2/code/week07_d35_flickr/app.js"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 99.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"36.1208",
+			"-115.1722",
+			"36.1208",
+			"  \n",
+			"-105.2348",
+			"40.0079",
+			"md",
+			"2",
+			"#{value}",
+			"'",
+			"input",
+			"div",
+			"input(type='checkbox'",
+			"') ",
+			"					br",
+			"br",
+			"BR",
+			"br",
+			"| ",
+			"value",
+			"02_Working_with_Objects_and_Properties.js:365",
+			"\"data\"",
+			"\"name\"",
+			"\"city\"",
+			"\"median_annual_salary\"",
+			",\"title\":\"software_developer_I\"",
+			"64633",
+			"software developer I",
+			"[{\n	\"city\":\"albuquerque\",\n	\"title\":\"software developer I\",\n	\"median_annual_salary\":53931\n	},\n{\"city\":\"alexandriava\",\"title\":\"software developer I\",\"median_annual_salary\":64633},\n{\"city\":\"anchorage\",\"title\":\"software developer I\",\"median_annual_salary\":66096},\n{\"city\":\"asheville\",\"title\":\"software developer I\",\"median_annual_salary\":52900},\n{\"city\":\"atlanta\",\"title\":\"software developer I\",\"median_annual_salary\":59042},\n{\"city\":\"austin\",\"title\":\"software developer I\",\"median_annual_salary\":56395},\n{\"city\":\"baltimore\",\"title\":\"software developer I\",\"median_annual_salary\":60136},\n{\"city\":\"bend\",\"title\":\"software developer I\",\"median_annual_salary\":51431},\n{\"city\":\"bellingham\",\"title\":\"software developer I\",\"median_annual_salary\":56788},\n{\"city\":\"birmingham\",\"title\":\"software developer I\",\"median_annual_salary\":54598},\n{\"city\":\"boise\",\"title\":\"software developer I\",\"median_annual_salary\":56536},\n{\"city\":\"boone\",\"title\":\"software developer I\",\"median_annual_salary\":52508},\n{\"city\":\"boston\",\"title\":\"software developer I\",\"median_annual_salary\":63228},\n{\"city\":\"boulder\",\"title\":\"software developer I\",\"median_annual_salary\":60400},\n{\"city\":\"bozeman\",\"title\":\"software developer I\",\"median_annual_salary\":35167},\n{\"city\":\"burlingtonvt\",\"title\":\"software developer I\",\"median_annual_salary\":54534},\n{\"city\":\"charlestonsc\",\"title\":\"software developer I\",\"median_annual_salary\":55558},\n{\"city\":\"charlotte\",\"title\":\"software developer I\",\"median_annual_salary\":58415},\n{\"city\":\"chattanooga\",\"title\":\"software developer I\",\"median_annual_salary\":53082},\n{\"city\":\"chicago\",\"title\":\"software developer I\",\"median_annual_salary\":61565},\n{\"city\":\"cincinnati\",\"title\":\"software developer I\",\"median_annual_salary\":57157},\n{\"city\":\"coloradosprings\",\"title\":\"software developer I\",\"median_annual_salary\":57900},\n{\"city\":\"columbus\",\"title\":\"software developer I\",\"median_annual_salary\":57490},\n{\"city\":\"costamesa\",\"title\":\"software developer I\",\"median_annual_salary\":64732},\n{\"city\":\"dallas\",\"title\":\"software developer I\",\"median_annual_salary\":58878},\n{\"city\":\"denver\",\"title\":\"software developer I\",\"median_annual_salary\":59170},\n{\"city\":\"detroit\",\"title\":\"software developer I\",\"median_annual_salary\":58380},\n{\"city\":\"durango\",\"title\":\"software developer I\",\"median_annual_salary\":40512},\n{\"city\":\"fairbanks\",\"title\":\"software developer I\",\"median_annual_salary\":65569},\n{\"city\":\"littlerockar\",\"title\":\"software developer I\",\"median_annual_salary\":52397},\n{\"city\":\"fayettevillewv\",\"title\":\"software developer I\",\"median_annual_salary\":47971},\n{\"city\":\"flagstaff\",\"title\":\"software developer I\",\"median_annual_salary\":49850},\n{\"city\":\"fortcollins\",\"title\":\"software developer I\",\"median_annual_salary\":55558},\n{\"city\":\"grandjunction\",\"title\":\"software developer I\",\"median_annual_salary\":53375},\n{\"city\":\"honolulu\",\"title\":\"software developer I\",\"median_annual_salary\":63550},\n{\"city\":\"houston\",\"title\":\"software developer I\",\"median_annual_salary\":58895},\n{\"city\":\"iowacity\",\"title\":\"software developer I\",\"median_annual_salary\":52842},\n{\"city\":\"jacksonwy\",\"title\":\"software developer I\",\"median_annual_salary\":42081},\n{\"city\":\"jerseycity\",\"title\":\"software developer I\",\"median_annual_salary\":69029},\n{\"city\":\"kansascity\",\"title\":\"software developer I\",\"median_annual_salary\":57619},\n{\"city\":\"los angeles\",\"title\":\"software developer I\",\"median_annual_salary\":64188},\n{\"city\":\"malibu\",\"title\":\"software developer I\",\"median_annual_salary\":61735},\n{\"city\":\"melbourne\",\"title\":\"software developer I\",\"median_annual_salary\":52801},\n{\"city\":\"miami\",\"title\":\"software developer I\",\"median_annual_salary\":55869},\n{\"city\":\"minneapolis\",\"title\":\"software developer I\",\"median_annual_salary\":61266},\n{\"city\":\"moab\",\"title\":\"software developer I\",\"median_annual_salary\":44230},\n{\"city\":\"nashville\",\"title\":\"software developer I\",\"median_annual_salary\":55312},\n{\"city\":\"ogdenut\",\"title\":\"software developer I\",\"median_annual_salary\":}53849,\n{\"city\":\"portsmouthnh\",\"title\":\"software developer I\",\"median_annual_salary\":59832},\n{\"city\":\"neworleans\",\"title\":\"software developer I\",\"median_annual_salary\":58954},\n{\"city\":\"newyork\",\"title\":\"software developer I\",\"median_annual_salary\":69029},\n{\"city\":\"orlando\",\"title\":\"software developer I\",\"median_annual_salary\":55839},\n{\"city\":\"philadelphia\",\"title\":\"software developer I\",\"median_annual_salary\":61629},\n{\"city\":\"phoenix\",\"title\":\"software developer I\",\"median_annual_salary\":57256},\n{\"city\":\"pittsburgh\",\"title\":\"software developer I\",\"median_annual_salary\":56308},\n{\"city\":\"portland\",\"title\":\"software developer I\",\"median_annual_salary\":60417},\n{\"city\":\"providenceri\",\"title\":\"software developer I\",\"median_annual_salary\":61495},\n{\"city\":\"raleigh\",\"title\":\"software developer I\",\"median_annual_salary\":58310},\n{\"city\":\"sacramento\",\"title\":\"software developer I\",\"median_annual_salary\":63591},\n{\"city\":\"salida\",\"title\":\"software developer I\",\"median_annual_salary\":49241},\n{\"city\":\"salmonid\",\"title\":\"software developer I\",\"median_annual_salary\":43030},\n{\"city\":\"saltlakecity\",\"title\":\"software developer I\",\"median_annual_salary\":41326},\n{\"city\":\"sandiego\",\"title\":\"software developer I\",\"median_annual_salary\":62285},\n{\"city\":\"sanfrancisco\",\"title\":\"software developer I\",\"median_annual_salary\":71488},\n{\"city\":\"sanjose\",\"title\":\"software developer I\",\"median_annual_salary\":69100},\n{\"city\":\"santamonica\",\"title\":\"software developer I\",\"median_annual_salary\":64188},\n{\"city\":\"seattle\",\"title\":\"software developer I\",\"median_annual_salary\":62578},\n{\"city\":\"steamboatsprings\",\"title\":\"software developer I\",\"median_annual_salary\":50951},\n{\"city\":\"stlouis\",\"title\":\"software developer I\",\"median_annual_salary\":57397},\n{\"city\":\"sunvalley\",\"title\":\"software developer I\",\"median_annual_salary\":58544},\n{\"city\":\"telluride\",\"title\":\"software developer I\",\"median_annual_salary\":50875},\n{\"city\":\"wichitaks\",\"title\":\"software developer I\",\"median_annual_salary\":56536},\n{\"city\":\"tampa\",\"title\":\"software developer I\",\"median_annual_salary\":55810},\n{\"city\":\"tucson\",\"title\":\"software developer I\",\"median_annual_salary\":49850},\n{\"city\":\"washingtonDC\",\"title\":\"software developer I\",\"median_annual_salary\":64633},\n{\"city\":\"whitefishmt\",\"title\":\"software developer I\",\"median_annual_salary\":53158}\n];",
+			"software developer I\n	\"city\":\"albuquerque\",\n	\"title\":\"software developer I\",\n	\"median_annual_salary\":53931\n	},\n{\"city\":\"alexandriava\",\"title\":\"software developer I\",\"median_annual_salary\":64633},\n{\"city\":\"anchorage\",\"title\":\"software developer I\",\"median_annual_salary\":66096},\n{\"city\":\"asheville\",\"title\":\"software developer I\",\"median_annual_salary\":52900},\n{\"city\":\"atlanta\",\"title\":\"software developer I\",\"median_annual_salary\":59042},\n{\"city\":\"austin\",\"title\":\"software developer I\",\"median_annual_salary\":56395},\n{\"city\":\"baltimore\",\"title\":\"software developer I\",\"median_annual_salary\":60136},\n{\"city\":\"bend\",\"title\":\"software developer I\",\"median_annual_salary\":51431},\n{\"city\":\"bellingham\",\"title\":\"software developer I\",\"median_annual_salary\":56788},\n{\"city\":\"birmingham\",\"title\":\"software developer I\",\"median_annual_salary\":54598},\n{\"city\":\"boise\",\"title\":\"software developer I\",\"median_annual_salary\":56536},\n{\"city\":\"boone\",\"title\":\"software developer I\",\"median_annual_salary\":52508},\n{\"city\":\"boston\",\"title\":\"software developer I\",\"median_annual_salary\":63228},\n{\"city\":\"boulder\",\"title\":\"software developer I\",\"median_annual_salary\":60400},\n{\"city\":\"bozeman\",\"title\":\"software developer I\",\"median_annual_salary\":35167},\n{\"city\":\"burlingtonvt\",\"title\":\"software developer I\",\"median_annual_salary\":54534},\n{\"city\":\"charlestonsc\",\"title\":\"software developer I\",\"median_annual_salary\":55558},\n{\"city\":\"charlotte\",\"title\":\"software developer I\",\"median_annual_salary\":58415},\n{\"city\":\"chattanooga\",\"title\":\"software developer I\",\"median_annual_salary\":53082},\n{\"city\":\"chicago\",\"title\":\"software developer I\",\"median_annual_salary\":61565},\n{\"city\":\"cincinnati\",\"title\":\"software developer I\",\"median_annual_salary\":57157},\n{\"city\":\"coloradosprings\",\"title\":\"software developer I\",\"median_annual_salary\":57900},\n{\"city\":\"columbus\",\"title\":\"software developer I\",\"median_annual_salary\":57490},\n{\"city\":\"costamesa\",\"title\":\"software developer I\",\"median_annual_salary\":64732},\n{\"city\":\"dallas\",\"title\":\"software developer I\",\"median_annual_salary\":58878},\n{\"city\":\"denver\",\"title\":\"software developer I\",\"median_annual_salary\":59170},\n{\"city\":\"detroit\",\"title\":\"software developer I\",\"median_annual_salary\":58380},\n{\"city\":\"durango\",\"title\":\"software developer I\",\"median_annual_salary\":40512},\n{\"city\":\"fairbanks\",\"title\":\"software developer I\",\"median_annual_salary\":65569},\n{\"city\":\"littlerockar\",\"title\":\"software developer I\",\"median_annual_salary\":52397},\n{\"city\":\"fayettevillewv\",\"title\":\"software developer I\",\"median_annual_salary\":47971},\n{\"city\":\"flagstaff\",\"title\":\"software developer I\",\"median_annual_salary\":49850},\n{\"city\":\"fortcollins\",\"title\":\"software developer I\",\"median_annual_salary\":55558},\n{\"city\":\"grandjunction\",\"title\":\"software developer I\",\"median_annual_salary\":53375},\n{\"city\":\"honolulu\",\"title\":\"software developer I\",\"median_annual_salary\":63550},\n{\"city\":\"houston\",\"title\":\"software developer I\",\"median_annual_salary\":58895},\n{\"city\":\"iowacity\",\"title\":\"software developer I\",\"median_annual_salary\":52842},\n{\"city\":\"jacksonwy\",\"title\":\"software developer I\",\"median_annual_salary\":42081},\n{\"city\":\"jerseycity\",\"title\":\"software developer I\",\"median_annual_salary\":69029},\n{\"city\":\"kansascity\",\"title\":\"software developer I\",\"median_annual_salary\":57619},\n{\"city\":\"los angeles\",\"title\":\"software developer I\",\"median_annual_salary\":64188},\n{\"city\":\"malibu\",\"title\":\"software developer I\",\"median_annual_salary\":61735},\n{\"city\":\"melbourne\",\"title\":\"software developer I\",\"median_annual_salary\":52801},\n{\"city\":\"miami\",\"title\":\"software developer I\",\"median_annual_salary\":55869},\n{\"city\":\"minneapolis\",\"title\":\"software developer I\",\"median_annual_salary\":61266},\n{\"city\":\"moab\",\"title\":\"software developer I\",\"median_annual_salary\":44230},\n{\"city\":\"nashville\",\"title\":\"software developer I\",\"median_annual_salary\":55312},\n{\"city\":\"ogdenut\",\"title\":\"software developer I\",\"median_annual_salary\":}53849,\n{\"city\":\"portsmouthnh\",\"title\":\"software developer I\",\"median_annual_salary\":59832},\n{\"city\":\"neworleans\",\"title\":\"software developer I\",\"median_annual_salary\":58954},\n{\"city\":\"newyork\",\"title\":\"software developer I\",\"median_annual_salary\":69029},\n{\"city\":\"orlando\",\"title\":\"software developer I\",\"median_annual_salary\":55839},\n{\"city\":\"philadelphia\",\"title\":\"software developer I\",\"median_annual_salary\":61629},\n{\"city\":\"phoenix\",\"title\":\"software developer I\",\"median_annual_salary\":57256},\n{\"city\":\"pittsburgh\",\"title\":\"software developer I\",\"median_annual_salary\":56308},\n{\"city\":\"portland\",\"title\":\"software developer I\",\"median_annual_salary\":60417},\n{\"city\":\"providenceri\",\"title\":\"software developer I\",\"median_annual_salary\":61495},\n{\"city\":\"raleigh\",\"title\":\"software developer I\",\"median_annual_salary\":58310},\n{\"city\":\"sacramento\",\"title\":\"software developer I\",\"median_annual_salary\":63591},\n{\"city\":\"salida\",\"title\":\"software developer I\",\"median_annual_salary\":49241},\n{\"city\":\"salmonid\",\"title\":\"software developer I\",\"median_annual_salary\":43030},\n{\"city\":\"saltlakecity\",\"title\":\"software developer I\",\"median_annual_salary\":41326},\n{\"city\":\"sandiego\",\"title\":\"software developer I\",\"median_annual_salary\":62285},\n{\"city\":\"sanfrancisco\",\"title\":\"software developer I\",\"median_annual_salary\":71488},\n{\"city\":\"sanjose\",\"title\":\"software developer I\",\"median_annual_salary\":69100},\n{\"city\":\"santamonica\",\"title\":\"software developer I\",\"median_annual_salary\":64188},\n{\"city\":\"seattle\",\"title\":\"software developer I\",\"median_annual_salary\":62578},\n{\"city\":\"steamboatsprings\",\"title\":\"software developer I\",\"median_annual_salary\":50951},\n{\"city\":\"stlouis\",\"title\":\"software developer I\",\"median_annual_salary\":57397},\n{\"city\":\"sunvalley\",\"title\":\"software developer I\",\"median_annual_salary\":58544},\n{\"city\":\"telluride\",\"title\":\"software developer I\",\"median_annual_salary\":50875},\n{\"city\":\"wichitaks\",\"title\":\"software developer I\",\"median_annual_salary\":56536},\n{\"city\":\"tampa\",\"title\":\"software developer I\",\"median_annual_salary\":55810},\n{\"city\":\"tucson\",\"title\":\"software developer I\",\"median_annual_salary\":49850},\n{\"city\":\"washingtonDC\",\"title\":\"software developer I\",\"median_annual_salary\":64633},\n{\"city\":\"whitefishmt\",\"title\":\"software developer I\",\"median_annual_salary\":53158}\n];",
+			"[{\n	\"city\":\"albuquerque\",\n	\"title\":\"software developer I\",\n	\"median_annual_salary\":53931\n	},\n{\"city\":\"alexandriava\",\"title\":\"software developer I\",\"median_annual_salary\":64633},\n{\"city\":\"anchorage\",\"title\":\"software developer I\",\"median_annual_salary\":66096},\n{\"city\":\"asheville\",\"title\":\"software developer I\",\"median_annual_salary\":52900},\n{\"city\":\"atlanta\",\"title\":\"software developer I\",\"median_annual_salary\":59042},\n{\"city\":\"austin\",\"title\":\"software developer I\",\"median_annual_salary\":56395},\n{\"city\":\"baltimore\",\"title\":\"software developer I\",\"median_annual_salary\":60136},\n{\"city\":\"bend\",\"title\":\"software developer I\",\"median_annual_salary\":51431},\n{\"city\":\"bellingham\",\"title\":\"software developer I\",\"median_annual_salary\":56788},\n{\"city\":\"birmingham\",\"title\":\"software developer I\",\"median_annual_salary\":54598},\n{\"city\":\"boise\",\"title\":\"software developer I\",\"median_annual_salary\":56536},\n{\"city\":\"boone\",\"title\":\"software developer I\",\"median_annual_salary\":52508},\n{\"city\":\"boston\",\"title\":\"software developer I\",\"median_annual_salary\":63228},\n{\"city\":\"boulder\",\"title\":\"software developer I\",\"median_annual_salary\":60400},\n{\"city\":\"bozeman\",\"title\":\"software developer I\",\"median_annual_salary\":35167},\n{\"city\":\"burlingtonvt\",\"title\":\"software developer I\",\"median_annual_salary\":54534},\n{\"city\":\"charlestonsc\",\"title\":\"software developer I\",\"median_annual_salary\":55558},\n{\"city\":\"charlotte\",\"title\":\"software developer I\",\"median_annual_salary\":58415},\n{\"city\":\"chattanooga\",\"title\":\"software developer I\",\"median_annual_salary\":53082},\n{\"city\":\"chicago\",\"title\":\"software developer I\",\"median_annual_salary\":61565},\n{\"city\":\"cincinnati\",\"title\":\"software developer I\",\"median_annual_salary\":57157},\n{\"city\":\"coloradosprings\",\"title\":\"software developer I\",\"median_annual_salary\":57900},\n{\"city\":\"columbus\",\"title\":\"software developer I\",\"median_annual_salary\":57490},\n{\"city\":\"costamesa\",\"title\":\"software developer I\",\"median_annual_salary\":64732},\n{\"city\":\"dallas\",\"title\":\"software developer I\",\"median_annual_salary\":58878},\n{\"city\":\"denver\",\"title\":\"software developer I\",\"median_annual_salary\":59170},\n{\"city\":\"detroit\",\"title\":\"software developer I\",\"median_annual_salary\":58380},\n{\"city\":\"durango\",\"title\":\"software developer I\",\"median_annual_salary\":40512},\n{\"city\":\"fairbanks\",\"title\":\"software developer I\",\"median_annual_salary\":65569},\n{\"city\":\"littlerockar\",\"title\":\"software developer I\",\"median_annual_salary\":52397},\n{\"city\":\"fayettevillewv\",\"title\":\"software developer I\",\"median_annual_salary\":47971},\n{\"city\":\"flagstaff\",\"title\":\"software developer I\",\"median_annual_salary\":49850},\n{\"city\":\"fortcollins\",\"title\":\"software developer I\",\"median_annual_salary\":55558},\n{\"city\":\"grandjunction\",\"title\":\"software developer I\",\"median_annual_salary\":53375},\n{\"city\":\"honolulu\",\"title\":\"software developer I\",\"median_annual_salary\":63550},\n{\"city\":\"houston\",\"title\":\"software developer I\",\"median_annual_salary\":58895},\n{\"city\":\"iowacity\",\"title\":\"software developer I\",\"median_annual_salary\":52842},\n{\"city\":\"jacksonwy\",\"title\":\"software developer I\",\"median_annual_salary\":42081},\n{\"city\":\"jerseycity\",\"title\":\"software developer I\",\"median_annual_salary\":69029},\n{\"city\":\"kansascity\",\"title\":\"software developer I\",\"median_annual_salary\":57619},\n{\"city\":\"los angeles\",\"title\":\"software developer I\",\"median_annual_salary\":64188},\n{\"city\":\"malibu\",\"title\":\"software developer I\",\"median_annual_salary\":61735},\n{\"city\":\"melbourne\",\"title\":\"software developer I\",\"median_annual_salary\":52801},\n{\"city\":\"miami\",\"title\":\"software developer I\",\"median_annual_salary\":55869},\n{\"city\":\"minneapolis\",\"title\":\"software developer I\",\"median_annual_salary\":61266},\n{\"city\":\"moab\",\"title\":\"software developer I\",\"median_annual_salary\":44230},\n{\"city\":\"nashville\",\"title\":\"software developer I\",\"median_annual_salary\":55312},\n{\"city\":\"ogdenut\",\"title\":\"software developer I\",\"median_annual_salary\":}53849,\n{\"city\":\"portsmouthnh\",\"title\":\"software developer I\",\"median_annual_salary\":59832},\n{\"city\":\"neworleans\",\"title\":\"software developer I\",\"median_annual_salary\":58954},\n{\"city\":\"newyork\",\"title\":\"software developer I\",\"median_annual_salary\":69029},\n{\"city\":\"orlando\",\"title\":\"software developer I\",\"median_annual_salary\":55839},\n{\"city\":\"philadelphia\",\"title\":\"software developer I\",\"median_annual_salary\":61629},\n{\"city\":\"phoenix\",\"title\":\"software developer I\",\"median_annual_salary\":57256},\n{\"city\":\"pittsburgh\",\"title\":\"software developer I\",\"median_annual_salary\":56308},\n{\"city\":\"portland\",\"title\":\"software developer I\",\"median_annual_salary\":60417},\n{\"city\":\"providenceri\",\"title\":\"software developer I\",\"median_annual_salary\":61495},\n{\"city\":\"raleigh\",\"title\":\"software developer I\",\"median_annual_salary\":58310},\n{\"city\":\"sacramento\",\"title\":\"software developer I\",\"median_annual_salary\":63591},\n{\"city\":\"salida\",\"title\":\"software developer I\",\"median_annual_salary\":49241},\n{\"city\":\"salmonid\",\"title\":\"software developer I\",\"median_annual_salary\":43030},\n{\"city\":\"saltlakecity\",\"title\":\"software developer I\",\"median_annual_salary\":41326},\n{\"city\":\"sandiego\",\"title\":\"software developer I\",\"median_annual_salary\":62285},\n{\"city\":\"sanfrancisco\",\"title\":\"software developer I\",\"median_annual_salary\":71488},\n{\"city\":\"sanjose\",\"title\":\"software developer I\",\"median_annual_salary\":69100},\n{\"city\":\"santamonica\",\"title\":\"software developer I\",\"median_annual_salary\":64188},\n{\"city\":\"seattle\",\"title\":\"software developer I\",\"median_annual_salary\":62578},\n{\"city\":\"steamboatsprings\",\"title\":\"software developer I\",\"median_annual_salary\":50951},\n{\"city\":\"stlouis\",\"title\":\"software developer I\",\"median_annual_salary\":57397},\n{\"city\":\"sunvalley\",\"title\":\"software developer I\",\"median_annual_salary\":58544},\n{\"city\":\"telluride\",\"title\":\"software developer I\",\"median_annual_salary\":50875},\n{\"city\":\"wichitaks\",\"title\":\"software developer I\",\"median_annual_salary\":56536},\n{\"city\":\"tampa\",\"title\":\"software developer I\",\"median_annual_salary\":55810},\n{\"city\":\"tucson\",\"title\":\"software developer I\",\"median_annual_salary\":49850},\n{\"city\":\"washingtonDC\",\"title\":\"software developer I\",\"median_annual_salary\":64633},\n{\"city\":\"whitefishmt\",\"title\":\"software developer I\",\"median_annual_salary\":53158}\n];",
+			"quizData",
+			"namexthree",
+			"\">\n",
+			"arrayOfPlates",
+			"x"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"40.0179",
+			"-105.2798",
+			"-105.0658",
+			"39.9319",
+			"-115.1722",
+			"36.1208",
+			"",
+			"data",
+			"name",
+			"\"name\"",
+			"\"data\"",
+			"",
+			"software_developer_I",
+			"quiz"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": "/Users/CommandCenter2/code/20141020-HTML5_Foundations"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2654,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content"
+							],
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "about.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2504,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								419,
+								419
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "sitemap.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2513,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content"
+							],
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 230.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

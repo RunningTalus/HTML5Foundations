@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+
+  <link rel="stylesheet" href="css/style.css">
+  
+  <title>Bookings - New York's Best Pizza</title>
+  <meta name="description" content="Bookings for Joe's Pizza of New York City.">
+  <meta name="keywords" content="bookings,joe's pizza,joe's story,pizzas,">
+  <meta name="author" content="RunningTalus">
+</head>
+<body>
+  <!-- Page Container -->
+  <div id="container">
+    <!-- Header -->
+    <header>
+      <!-- Logo -->
+      <div id = "logo">
+        <h1>Joe's Pizza Co</h1>
+      </div>
+      <!-- Navigation -->
+      <nav>
+        <ul>
+          <li>
+            <a href="index.html" title="Joe's Pizza Co." >Home</a>
+          </li>
+          <li>
+            <a href="about.html" title="About Joe's Pizza Co.">About</a>
+          </li>
+          <li>
+            <a href="news.html" title="Joe's Pizza Co. in the News">News</a>
+          </li>
+          <li>
+            <a href="menu.html" title="Joe's Pizza Menu">Menu</a>
+          </li>
+          <li>
+            <a href="locations.html" title="Joe's Pizza Co. Locations">Locations</a>
+          </li>
+        </ul>
+      </nav>
+    </header>
+    
+    <!-- Main Content -->
+    <div>
+      <!-- Page Text -->
+      <section id="page-text">
+      <h1>Request a Booking</h1>
+      <p>
+      Please use the form below to submit a booking request. You will then be contacted by a staff member who will confirm your booking.
+      </p>
+      <form action="bookings.php" method="POST">
+        
+        <div class="field">
+          <label for="name">Name:</label>
+          <input type="text" name="name" id="name">
+        </div>
+        
+        <div class="field">
+          <label for="phone">Phone:</label>
+          <input type="text" name="phone" id="phone">
+        </div>
+        
+        <div class="field">
+          <label for="email" >Email:</label>
+          <input type="text" name="email" id="email">
+        </div>
+
+        <div class="field">
+          <label for="restaurant">Restaurant:</label>
+          <input type="text" name="restaurant" id="restaurant">
+        </div>
+
+        <div class="field">
+          <label for="bookingTime">Booking Time:</label>
+          <input type="text" name="bookingTime" id="bookingTime">
+        </div>
+
+        <div class="field">
+          <label for="guests">Number of Guests:</label>
+          <input type="text" name="guests" id="guests">
+        </div>
+
+        <div class="field">
+          <label for="marketing">Please tick this box if you would like to receive special offers from Joe's Pizza Co.</label>
+          <input type="checkbox" name="marketing" id="marketing" value="1">
+        </div>
+      <div class="field">
+        <label for="message">Special Requests:</label>
+        <textarea name="message" id="message" cols="50" rows="10"></textarea>
+      </div>
+      </form>
+      </section>
+    </div>
+    
+    <!-- Footer -->
+    <footer>
+      <small>&copy; 2014 Joe's Pizza Co. All Rights Reserved</small>
+       - 
+      <a href="sitemap.html" title="Links to all the pages on this website.">Sitemap</a>
+    </footer>
+  </div>
+</body>
+</html>
